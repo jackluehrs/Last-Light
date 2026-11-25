@@ -1,4 +1,4 @@
-# My1stUnity: Tower Defense + Dungeon Crawler
+# Last Light: Tower Defense + Dungeon Crawler
 
 > **How this was made:** I did not write the code in this project. I came up with the game idea and design, then directed [Claude Code](https://claude.com/claude-code) (Anthropic's AI coding agent) to build it: describing features, playtesting each version in Unity, and asking for changes and fixes. All of the C# scripts were written by Claude. This repo is my first experiment with Unity and with AI-assisted game development.
 
